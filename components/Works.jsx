@@ -57,7 +57,7 @@ const projects = [
       "A Metaverse company that create WEB3 Social Media for the users and where we perform each functionality like follow,adding post,comment etc which will be saved as nft directly on blockchain using meta mask.",
     tags: [
       {
-        name: "react",
+        name: "next",
         color: "blue-text-gradient",
       },
       {
